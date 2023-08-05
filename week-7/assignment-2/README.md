@@ -1,4 +1,4 @@
-## Assignment 2
+ ## Assignment 2
 Move this JS project to typescript.
 
  - It's harder to move a react project to TS, although totally possible with the naive approach of moving files from jsx => tsx, and then fixing all the errors.
